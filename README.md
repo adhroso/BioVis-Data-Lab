@@ -1,6 +1,8 @@
 # BioVis-Data-Lab
 Map and translate zoo species attributes from numerical and boolean type data to human readable
 
+# Repository
+https://github.com/adhroso/BioVis-Data-Lab
 
 # Execute program
 perl zoo_attr_mapper.pl zoo.names.txt zoo.data.txt
