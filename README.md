@@ -1,5 +1,5 @@
 # BioVis-Data-Lab
-Map and translate zoo species attributes from numerical and boolean type data to human readable
+Map and translate zoo species attributes from numerical and boolean type data to human readable.
 
 # Repository
 https://github.com/adhroso/BioVis-Data-Lab
